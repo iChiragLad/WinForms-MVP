@@ -1,0 +1,8 @@
+D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\bin\Debug\MVP_Pattern.exe.config
+D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\bin\Debug\MVP_Pattern.exe
+D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\bin\Debug\MVP_Pattern.pdb
+D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.CarView.resources
+D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.Properties.Resources.resources
+D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.csproj.GenerateResource.Cache
+D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.exe
+D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.pdb
