@@ -13,11 +13,35 @@ namespace MVP_Pattern
         public string Make { get; set; }
         public int YOP { get; set; }
         public System.Drawing.Color ColorCode { get; set; }
-        public List<CarModel> cars;
+
+        DBHelper db;
 
         public CarModel()
         {
-            cars = new List<CarModel>();
+            db = new DBHelper();
+        }
+
+        public void Add(CarModel car)
+        {
+            db.OpenConnection();
+            db.Insert(car);
+            db.CloseConnection();
+        }
+
+        public void Modify(CarModel car)
+        {
+            db.OpenConnection();
+            db.Modify(car);
+            db.CloseConnection();
+        }
+
+        public CarModel Search(Int32 id)
+        {
+            db.OpenConnection();
+            CarModel dummy = db.Search(id);
+            db.CloseConnection();
+
+            return dummy;
         }
     }
 }

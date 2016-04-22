@@ -27,11 +27,9 @@ namespace MVP_Pattern
 
         private void View_Modify(object sender, EventArgs e)
         {
-            car.cars.Remove(SearchCar(view.OwnerID));
-
             CarModel dum = new CarModel();
             this.FillCarDataFromView(ref dum);
-            car.cars.Add(dum);
+            car.Modify(dum);
         }
 
         private void View_Open(object sender, EventArgs e)
@@ -49,12 +47,12 @@ namespace MVP_Pattern
         {
             CarModel dum = new CarModel();
             this.FillCarDataFromView(ref dum);
-            car.cars.Add(dum);
+            car.Add(dum);
         }
 
         private CarModel SearchCar(int id)
         {
-            return (car.cars.Find(delegate (CarModel c) { return (c.OwnerID == id); }));
+            return (car.Search(id));
         }
 
         private void FillCarDataFromView(ref CarModel dum)

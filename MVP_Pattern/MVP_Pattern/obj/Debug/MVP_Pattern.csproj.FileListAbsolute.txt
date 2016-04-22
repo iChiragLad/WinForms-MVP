@@ -6,3 +6,11 @@ D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.Prope
 D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.csproj.GenerateResource.Cache
 D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.exe
 D:\TestProjects\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.pdb
+D:\Do not touch\C# practice\CSharp_Practice\WinForms MVP\MVP_Pattern\MVP_Pattern\bin\Debug\MVP_Pattern.exe.config
+D:\Do not touch\C# practice\CSharp_Practice\WinForms MVP\MVP_Pattern\MVP_Pattern\bin\Debug\MVP_Pattern.exe
+D:\Do not touch\C# practice\CSharp_Practice\WinForms MVP\MVP_Pattern\MVP_Pattern\bin\Debug\MVP_Pattern.pdb
+D:\Do not touch\C# practice\CSharp_Practice\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.CarView.resources
+D:\Do not touch\C# practice\CSharp_Practice\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.Properties.Resources.resources
+D:\Do not touch\C# practice\CSharp_Practice\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.csproj.GenerateResource.Cache
+D:\Do not touch\C# practice\CSharp_Practice\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.exe
+D:\Do not touch\C# practice\CSharp_Practice\WinForms MVP\MVP_Pattern\MVP_Pattern\obj\Debug\MVP_Pattern.pdb

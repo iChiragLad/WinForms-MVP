@@ -1,0 +1,8 @@
+﻿CREATE TABLE CarDB
+(
+	[OwnerID] INT NOT NULL PRIMARY KEY, 
+    [Model] VARCHAR(50) NULL, 
+    [Make] VARCHAR(50) NULL, 
+    [YOP] INT NULL, 
+    [Color] VARCHAR(50) NULL
+)
